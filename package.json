@@ -1,0 +1,30 @@
+{
+  "name": "githubcli",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohishaik1/githubCli.git"
+  },
+  "keywords": [
+    "github",
+    "nodejs",
+    "js"
+  ],
+  "author": "Mohiddin Sharieff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohishaik1/githubCli/issues"
+  },
+  "homepage": "https://github.com/Mohishaik1/githubCli#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "readline-sync": "^1.4.10"
+  }
+}
